@@ -1,4 +1,3 @@
-# Email Spam Classification using Machine Learning
 
 This project focuses on building and evaluating multiple machine learning models to detect whether an email is **spam** or **not spam**.  
 The dataset was sourced from [Hugging Face](https://huggingface.co/datasets/UniqueData/email-spam-classification), and the project demonstrates how to preprocess text data, extract features using **TF-IDF**, train various classifiers, and compare their performances using **stratified cross-validation**.
